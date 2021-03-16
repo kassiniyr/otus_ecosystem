@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03af53e6-164d-4342-921b-b86c491208d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2" type="2d1252cf:ModuleNode" />
+                <item name="sbt commands" type="5c424813:SbtViewContributor$SbtCommandsGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2" type="2d1252cf:ModuleNode" />
+                <item name="sbt settings" type="ee584324:SbtViewContributor$SbtSettingsGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2" type="2d1252cf:ModuleNode" />
+                <item name="sbt tasks" type="d9357504:SbtViewContributor$SbtTasksGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2-build" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="otus_l2" type="f1a62948:ProjectNode" />
+                <item name="otus_l2-build" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pIpEJcA9SpWoz6apWm8S7NvAb9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="otus_l2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="otus_dz2 [file:/Users/ruassd/trn/Scala/ecosystem/otus_dz2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="otus_l2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2997607013" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="1317329738" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2513440544" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03af53e6-164d-4342-921b-b86c491208d5" name="Default Changelist" comment="" />
+      <created>1614880345980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614880345980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4938" y="175" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1615902285090">
+      <screen x="4240" y="-100" width="1920" height="1080" />
+    </state>
+    <state x="4938" y="175" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/4240.-100.1920.1080/1680.-156.2560.1440/0.0.1680.1050@4240.-100.1920.1080" timestamp="1615902285090" />
+    <state x="4938" y="192" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/4240.-77.1920.1057/1680.-133.2560.1417/0.23.1680.1027@4240.-77.1920.1057" timestamp="1615700764243" />
+    <state x="4664" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614881440647">
+      <screen x="4240" y="-77" width="1920" height="1057" />
+    </state>
+    <state x="4664" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/4240.-77.1920.1057/1680.-133.2560.1417/0.23.1680.973@4240.-77.1920.1057" timestamp="1614881440647" />
+    <state x="4709" y="48" key="SettingsEditor" timestamp="1615865666566">
+      <screen x="4240" y="-100" width="1920" height="1080" />
+    </state>
+    <state x="4709" y="48" key="SettingsEditor/4240.-100.1920.1080/1680.-156.2560.1440/0.0.1680.1050@4240.-100.1920.1080" timestamp="1615865666566" />
+    <state x="4709" y="68" key="SettingsEditor/4240.-77.1920.1057/1680.-133.2560.1417/0.23.1680.1027@4240.-77.1920.1057" timestamp="1615703685883" />
+    <state x="4709" y="59" key="SettingsEditor/4240.-77.1920.994/1680.-133.2560.1417/0.23.1680.1027@4240.-77.1920.994" timestamp="1614883864810" />
+    <state x="4893" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1615608691351">
+      <screen x="4240" y="-77" width="1920" height="1057" />
+    </state>
+    <state x="4893" y="252" key="com.intellij.ide.util.TipDialog/4240.-77.1920.1057/1680.-133.2560.1417/0.23.1680.972@4240.-77.1920.1057" timestamp="1615608691351" />
+  </component>
+</project>
