@@ -44,7 +44,7 @@ object TopCountries extends App {
 
   parser.decode[List[Country]](source) match {
     case Right(countries) => {
-      val countriesSel = countries.filter(_.region == "Africa").sortBy(_.area).reverse.take(10)
+      val countriesSel = countries.filter(_.region == "Africa").sortBy(_.area)(Ordering[Double].reverse).take(10)
       var countriesOut =  List[CountryOut] ()
       for (e <- countriesSel)
         countriesOut = countriesOut :+ CountryOut(e.name,e.capital(0),e.area)
